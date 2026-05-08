@@ -1,2 +1,2 @@
 source_id	subjects_num	sessions_num	sessions_min	sessions_max	bold_num	t1w_num	t2w_num	bold_size	t1w_size	bold_size_max	bold_duration_total	bold_duration_mean	bold_voxels_total	bold_voxels_mean	datatypes
-ds003097	928	n/a	n/a	n/a	6954	21721	0	319715263631	152004394863	45975735	4436652.096161842	638.0000138282776	982133230	141232.84872016107	anat,dwi,func
+ds003097	928	n/a	n/a	n/a	881	2768	0	40482601992	19369515410	45950740	562078.0121827126	638.0000138282776	124403231	141206.84562996594	anat,dwi,func
